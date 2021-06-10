@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@MASIJUN99**
 - 👀 I’m interested in **Algorithms**
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring Framework**
 - 💞️ I’m looking to collaborate on **Study Partner**
 - 📫 Contact me by email **masijun99@gmail.com** also wechat **masijun99**
 
